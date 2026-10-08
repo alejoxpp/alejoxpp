@@ -1,6 +1,6 @@
 # ¡Hola! Soy Jose Alejandro 👋
 
-**Desarrollador de Software | Estudiante ADSO**
+**Desarrollador y analista de Software | Estudiante ADSO**
 
 Apasionado por la arquitectura de software, el desarrollo web, las bases de datos relacionales y la integración de soluciones asistidas por IA. Me enfoco en construir aplicaciones eficientes, legibles y orientadas a resolver necesidades reales.
 
